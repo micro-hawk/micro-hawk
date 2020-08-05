@@ -1,11 +1,11 @@
 ### Hi there, I'm Vikas Das - aka [MicroHawk][website] 👋
 
-## I'm a Code Enthusiast and Developer!
+## I'm a Programmer Enthusiast and a Developer!
 - 🔭 I’m currently working on a C++ and Java
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sleep, lmao XD
+- ⚡ Fun fact: I love to sleep, btw it's Java :lmao XD
 
 ### Connect with me:
 
