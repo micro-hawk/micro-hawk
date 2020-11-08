@@ -41,10 +41,6 @@
 
 <br />
 
-
-### Thanks For visiting here ❣️
-<img  align="left" src="https://cdn.shopify.com/s/files/1/1058/8734/files/care150px23fps.gif?11203">
-
 [website]: https://micro-hawk.github.io
 [twitter]: https://twitter.com/micro_hawk
 [youtube]: https://www.youtube.com/channel/UCVuQsYY9IMUseQUSTZWXxqQ?view_as=subscriber
