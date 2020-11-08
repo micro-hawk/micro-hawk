@@ -38,8 +38,12 @@
 <br />
 
 <img align="left" alt="MicroHawk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=micro-hawk&show_icons=true&hide_border=true" />
-<br/>
-<img src="https://cdn.shopify.com/s/files/1/1058/8734/files/care150px23fps.gif?11203" align="center" width="10%">
+
+<br />
+
+
+### Thanks For visiting here ❣️
+<img  align="left" src="https://cdn.shopify.com/s/files/1/1058/8734/files/care150px23fps.gif?11203">
 
 [website]: https://micro-hawk.github.io
 [twitter]: https://twitter.com/micro_hawk
