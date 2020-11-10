@@ -38,10 +38,8 @@
 <br />
 
 <img align="left" alt="MicroHawk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=micro-hawk&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micro-hawk&layout=compact&hide=html" alt="micro-hawk" />
 
-<p align="right">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micro-hawk&layout=compact&hide=html" alt="micro-hawk" />
-</p>
 
 
 <br />
