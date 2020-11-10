@@ -37,8 +37,8 @@
 <br />
 <br />
 
-<img align="left" width="40%" alt="MicroHawk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=micro-hawk&show_icons=true&hide_border=true" />
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micro-hawk&layout=compact&hide=html" alt="micro-hawk" />
+<img align="left" width="60%" alt="MicroHawk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=micro-hawk&show_icons=true&hide_border=true" />
+<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micro-hawk&layout=compact&hide=html" alt="micro-hawk" />
 
 
 
