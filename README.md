@@ -3,7 +3,7 @@
 
 
 ## I'm a Programmer Enthusiast and a Developer!
-- 🔭 I’m currently working on awesome window manager
+- 🔭 I’m currently working on Awesome [WindowManager][awesome]
 - 🌱 I’m currently learning Data Structure 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -49,3 +49,4 @@
 [youtube]: https://www.youtube.com/channel/UCVuQsYY9IMUseQUSTZWXxqQ?view_as=subscriber
 [instagram]: https://instagram.com/micro_hawk
 [linkedin]: https://www.linkedin.com/in/vikas-das-6074a9185/
+[awesome]: https://github.com/micro-hawk/awesomeWM
