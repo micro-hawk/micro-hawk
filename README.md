@@ -3,11 +3,11 @@
 
 
 ## I'm a Programmer Enthusiast and a Developer!
-- 🔭 I’m currently working on open source and web development too
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on awesome window manager
+- 🌱 I’m currently learning Data Structure 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sleep, btw it's Java xD
+- ⚡ Fun fact: I'm an Epicurean 
 
 ### Connect with me:
 
