@@ -9,6 +9,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm an Epicurean 
 
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/coding-freak.gif" width="500" height="300" />
+
+
 ### Connect with me:
 
 [<img align="left" alt="micro-hawk.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
