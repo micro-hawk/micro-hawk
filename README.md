@@ -1,4 +1,4 @@
-### Hello World, I'm Vikas Das - aka [MicroHawk][website] 👋
+### Hello World, I'm Vikas Das - aka [MicroHawk][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Hawk" width="80px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.gYG8rCRXD6PADD_fqJombgHaEY%26pid%3DApi&f=1" />
 
 
