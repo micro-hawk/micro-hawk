@@ -20,6 +20,9 @@
 [<img align="left" alt="Vikas Das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="micro_hawk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+![](https://visitor-badge.glitch.me/badge?page_id=micro-hawk.micro-hawk)
+
+
 <br />
 
 ### Languages and Tools:
