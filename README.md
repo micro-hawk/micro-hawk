@@ -3,7 +3,7 @@
 
 
 ## I'm a Programmer Enthusiast and a Developer!
-- 🔭 I’m currently working on AlgoVisualization
+- 🔭 I’m currently working on UI development
 - 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
