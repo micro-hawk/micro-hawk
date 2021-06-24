@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/intro.gif" alt="👋 Hi there! I'm ((Vikas|MicroHawk.me)|https://microhawk.me)" title="👋 Hi there! I'm (MicroHawk(|.me)|https://MicroHawk.me)"/>](https://MicroHawk.me/)
+[<img width=100% src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/intro.gif" alt="👋 Hi there! I'm ((Vikas|MicroHawk.me)|https://microhawk.me)" title="👋 Hi there! I'm (MicroHawk(|.me)|https://MicroHawk.me)"/>](https://MicroHawk.me/)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=micro-hawk.micro-hawk&color=00cf00)
 
