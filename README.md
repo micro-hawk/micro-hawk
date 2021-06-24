@@ -22,16 +22,15 @@
   - 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
   - 𝙶𝚎𝚝 𝚊 𝙵𝙰𝙰𝙽𝙶𝙼+ 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎)
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+<!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 
-<!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#230](https://github.com/Raymo111/i3lock-color/issues/230) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 2. 🗣 Commented on [#210](https://github.com/Raymo111/i3lock-color/issues/210) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🎉 Merged PR [#228](https://github.com/Raymo111/i3lock-color/pull/228) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. 🗣 Commented on [#9](https://github.com/Raymo111/kahoot-answer-bot/issues/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 5. ❗️ Closed issue [#8](https://github.com/Raymo111/kahoot-answer-bot/issues/8) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-<!--END_SECTION:activity-->
+ -->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
@@ -42,7 +41,7 @@
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 [<img src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/socials/linkedin.png" height="40em" align="center" alt="Follow MicroHawk on LinkedIn" title="Follow MicroHawk on LinkedIn"/>](https://linkedin.com/in/microhawk)
-[<img src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/socials/twitter.svg" height="40em" align="center" alt="Follow MicroHawk on Twitter" title="Follow MicroHawk on Twitter"/>](https://twitter.com/micro_hawk)
+[<img src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/socials/twitter.png" height="40em" align="center" alt="Follow MicroHawk on Twitter" title="Follow MicroHawk on Twitter"/>](https://twitter.com/micro_hawk)
 [<img src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/socials/instagram.svg" height="40em" align="center" alt="Follow MicroHaw on Instagram" title="Follow MicroHawk on Instagram"/>](https://instagram.com/micro_hawk)
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
