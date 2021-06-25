@@ -70,3 +70,4 @@
 - 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚕𝚘𝚠𝚕𝚒𝚐𝚑𝚝𝚎𝚛/𝚖𝚎𝚝𝚛𝚒𝚌𝚜](https://github.com/lowlighter/metrics)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=micro-hawk&theme=dark" alt="micro-hawk" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=micro-hawk&show_icons=true&theme=dark&locale=en" alt="micro-hawk" /></p>
