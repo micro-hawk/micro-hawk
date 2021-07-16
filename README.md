@@ -7,7 +7,7 @@
 <img align="right" alt="Hawk" width="80px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.gYG8rCRXD6PADD_fqJombgHaEY%26pid%3DApi&f=1" />
 
 - 🖥 𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 | 𝕌𝕀/𝕌𝕏
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ 𝚊𝚝 🇸‌🇵‌🇵‌🇺‌
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚝 𝚂𝙿𝙿𝚄
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=microhawkx)
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
@@ -37,7 +37,7 @@
 [<img src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/socials/instagram.svg" height="40em" align="center" alt="Follow MicroHaw on Instagram" title="Follow MicroHawk on Instagram"/>](https://instagram.com/micro_hawk)
 <br>
 
-## ☣️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
+## ☣️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 
 <p align="left">
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
