@@ -63,3 +63,5 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=micro-hawk&theme=dark" alt="micro-hawk" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=micro-hawk&show_icons=true&theme=dark&locale=en" alt="micro-hawk" /></p>
+
+<p align="center"><img align="center" src="https://github.com/micro-hawk/micro-hawk/blob/output/github-snake.svg" /></p>
