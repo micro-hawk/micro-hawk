@@ -65,4 +65,4 @@
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=micro-hawk&theme=dark&hide_border=true" />
 </p>
 
-<p align="center"><img align="center" src="https://github.com/micro-hawk/micro-hawk/blob/output/github-snake.svg" /></p>
+![MicroHawk Snake GIF](https://github.com/micro-hawk/micro-hawk/blob/output/github-contribution-grid-snake.svg)
