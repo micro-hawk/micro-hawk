@@ -60,7 +60,7 @@
 - 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚕𝚘𝚠𝚕𝚒𝚐𝚑𝚝𝚎𝚛/𝚖𝚎𝚝𝚛𝚒𝚌𝚜](https://github.com/lowlighter/metrics)
 
 
-<p align="left">
+<p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=micro-hawk&theme=dark&show_icons=true&count_private=true&hide_border=true" />
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=micro-hawk&theme=dark&hide_border=true" />
 </p>
