@@ -1,14 +1,16 @@
-[<img width=100% src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/intro.gif" alt="👋 Hi there! I'm ((Vikas|MicroHawk.me)|https://microhawk.me)" title="👋 Hi there! I'm (MicroHawk(|.me)|https://MicroHawk.me)"/>](https://MicroHawk.me/)
+<!-- [<img width=100% src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/intro.gif" alt="👋 Hi there! I'm ((Vikas|MicroHawk.me)|https://microhawk.me)" title="👋 Hi there! I'm (MicroHawk(|.me)|https://MicroHawk.me)"/>](https://MicroHawk.me/) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cartograph+CF+Italic&pause=1000&color=F713A2&width=435&lines=Heya%2C+I+am+MicroHawk!)](https://git.io/typing-svg)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=micro-hawk.micro-hawk&color=00cf00)
+
+![](https://komarev.com/ghpvc/?username=micro-hawk)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 <img align="right" alt="Hawk" width="80px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.gYG8rCRXD6PADD_fqJombgHaEY%26pid%3DApi&f=1" />
 
 - 🖥 𝚆𝚎𝚋𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 + 𝙳𝚎𝚟𝙾𝚙𝚜
-- 📱𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝙼𝚘𝚋𝚒𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝!
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚝 𝚂𝙿𝙿𝚄
+- 📱𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚁𝚞𝚜𝚝!
+- 🎓 𝙰 𝙵𝚒𝚗𝚊𝚕 𝚈𝚎𝚊𝚛 𝚞𝚗𝚍𝚎𝚛𝚐𝚛𝚊𝚍 𝚊𝚝 𝚂𝙿𝙿𝚄
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/micro-hawk/micro-hawk/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
